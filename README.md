@@ -1,5 +1,5 @@
 # RotApp-Practica-Profesionalizante-II
 Proyecto para Practica Profesionalizante II
 
-Una web del tipo blog para rotaract simple apto para cualquiera, creada para la centralizacion de publicaciones y 
-a dar una perspectiva mas profesional a la organizacion, además de ayudará a su imagen pública y a tener un mayor peso en la comunidad.
+Una web del tipo blog para un districto de rotaract el cual es simple y apto para cualquier persona, creada para la centralizacion de publicaciones y tambien 
+brindarle una perspectiva mas profesional a la organizacion, además de incrementar el reconocimiento que posee el districto.
